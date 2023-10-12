@@ -78,13 +78,13 @@ He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she s
 * Dahlia (_Coreopsideae Dahlia_)
 
 * Calculus
-  * A professor
-  * Has no hair
-  * Often wears green
+   * A professor
+   * Has no hair
+   * Often wears green
 * Castafiore
-  * An opera singer
-  * Has white hair
-  * Is possibly mentally unwell
+   * An opera singer
+   * Has white hair
+   * Is possibly mentally unwell
 
 1. Cut the cheese
 
