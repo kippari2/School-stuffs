@@ -1,4 +1,4 @@
-## <Manuel Kalliokoski> web-tehtävä
+## Manuel Kalliokoski web-tehtävä
 
 ### Italics & bold
 
